@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+  <html lang="en" >
+  <head>
+  <meta charset="utf-8">
+  <title>Snake Game - Game Project</title>
+  <link href="https.//fonts.googleapis.com/css?family=Press+Start+2P" rel=stylesheet">
+		body{
+			background.rgb(242,242,242);
+			font-family: 'Press 
+  </head>
+  
+  <body>
+	<div class="container">
+	<h3> SNAKE GAME </h3>
+	<p> objective: Eat the gray square <br>
+	DONT hit the red borders or the snake body </p>
+</div>
+    <script> src='http://cdnjs.cloudfare.com/ajac/libs/p5.js/0.5.4/p5.js'></script>
+<script> src='http://cdnjs.cloudfare.com/ajac/libs/p5.js/0.5.4/addons/p5.dom.js'></script>
+
+</body>
+
+</html>
